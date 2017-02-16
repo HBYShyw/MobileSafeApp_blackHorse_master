@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android_Studio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_adc6f2dad7aaacd1fd801c2f79bd20c559fe1059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_eb1b655eb9236d702a97a89e00ee5b59bd8cb00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\gson-2.2.1_b22ab5bef81f7b08b2ca90676125774b33913c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_bd7a28c10e59952c33e11f3d47f26f8bbaf52e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\MobileSafeApp-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2aaf9b56d13d613773a5f526e78e251d877c9096">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\MobileSafeApp-master-library-unspecified_3b89a03813a98dd72d07231091050f76b5e87155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_39831df40bdc10d0b4ccd636379e68daf092e054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_fc95f9a8aa37516222b6de145416083b203639c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_bd71da474eefcd0ba3038444d1248368df53d82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\online_source\MobileSafeApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\online_source\MobileSafeApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_2b3d3f03c234aaa2538b151f53f91aa4d2ae3b30.jar" />
+    </item>
+
+</items>
